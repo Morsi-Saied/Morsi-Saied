@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="60%" />
 </p>
 
-<h1 align="center">Hi there, I'm Morsi Saied Morsi 👋</h1>
+<h1 align="center">Hi there, I'm Morsi Saied 👋</h1>
 <h3 align="center">Technical Lead | DevOps Explorer | Simplifying Complexity</h3>
 
 ---
